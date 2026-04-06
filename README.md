@@ -1,4 +1,4 @@
-# Tarea: Comparación de rendimiento entre CYK y ANTLR4
+# Tarea 2 Comparación de rendimiento entre CYK y ANTLR4
 
 ## Descripción
 Implementación y comparación empírica del algoritmo CYK (O(n³)) vs un parser generado con ANTLR4 (O(n)) para reconocer el lenguaje `a^n b^n`.
